@@ -46,7 +46,7 @@
     "body-scroll-lock": "^4.0.0-beta.0",
     "convert": "^4.13.2",
     "js-convert-case": "^4.2.0",
-    "marked": "^9.1.2",
+    "marked": "^9.1.5",
     "nanostores": "^0.9.4",
     "rehype-external-links": "^3.0.0",
     "tailwindcss": "^3.3.3",
