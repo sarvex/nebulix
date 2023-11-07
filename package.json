@@ -37,7 +37,7 @@
     "@vueuse/components": "^10.5.0",
     "@vueuse/integrations": "^10.5.0",
     "astro": "^3.4.3",
-    "astro-compress": "^2.1.5",
+    "astro-compress": "^2.2.3",
     "astro-critters": "^2.0.11",
     "astro-icon": "^0.8.1",
     "astro-imagetools": "^0.9.0",
