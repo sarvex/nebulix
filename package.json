@@ -28,7 +28,7 @@
     "@astrojs/rss": "^3.0.0",
     "@astrojs/sitemap": "^3.0.2",
     "@astrojs/tailwind": "^5.0.2",
-    "@astrojs/vue": "^3.0.2",
+    "@astrojs/vue": "^3.0.3",
     "@fontsource-variable/inter-tight": "^5.0.18",
     "@nanostores/vue": "^0.10.0",
     "@panzoom/panzoom": "^4.5.1",
