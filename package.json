@@ -29,7 +29,7 @@
     "@astrojs/sitemap": "^3.0.3",
     "@astrojs/tailwind": "^5.0.2",
     "@astrojs/vue": "^3.0.4",
-    "@fontsource-variable/inter-tight": "^5.0.18",
+    "@fontsource-variable/inter-tight": "^5.0.19",
     "@nanostores/vue": "^0.10.0",
     "@panzoom/panzoom": "^4.5.1",
     "@remark-embedder/core": "^3.0.2",
